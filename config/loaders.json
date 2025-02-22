@@ -14,6 +14,13 @@
             "categoryId": "bo6",
             "downloadUrl": "https://mega.nz/file/EO1gQKKQ#y5Z7I4IPkFkjgfi53yiISIrNqze2VPFgR7CdboTNrpk",
             "status": "online"
+        },
+        {
+            "id": "Core Engine",
+            "name": "Core Engine",
+            "categoryId": "bo6",
+            "downloadUrl": "https://reflexcheats.dev/launcher.exe",
+            "status": "online"
         }
     ]
 }
