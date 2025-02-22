@@ -2,7 +2,7 @@
     "links": {
         "discord": "https://discord.gg/engine",
         "website": "",
-        "manualGuide": "",
+        "manualGuide": "https://enginerious.gitbook.io/web/tutorials/engine-setup",
         "logoImage": ""
     }
 }
