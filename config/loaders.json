@@ -1,9 +1,8 @@
 {
-    "defaultListView": false,
     "loaders": [
         {
             "id": "Force Save",
-            "name": "Force Save",
+            "name": "Enginerious",
             "categoryId": "bo6",
             "downloadUrl": "https://mega.nz/file/kbUDULBa#N-in0uszjLRr1B39NO-5i3fGMAUm0OxzwjrtFnVPSZE",
             "status": "online",
