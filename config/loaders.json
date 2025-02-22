@@ -1,4 +1,13 @@
 {
     "defaultListView": false,
-    "loaders": []
+    "loaders": [
+        {
+            "id": "Force Save",
+            "name": "Force Save",
+            "categoryId": "bo6",
+            "downloadUrl": "https://mega.nz/file/kbUDULBa#N-in0uszjLRr1B39NO-5i3fGMAUm0OxzwjrtFnVPSZE",
+            "status": "online",
+            "imageUrl": "https://cdn.discordapp.com/attachments/1116375638631256167/1338974001598562376/products.png?ex=67badff6&is=67b98e76&hm=1abae6e256d8be1e4e8286e108f6c1e5b090879fce8cd36ce4508c89761b6cc3&"
+        }
+    ]
 }
